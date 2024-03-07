@@ -1,6 +1,12 @@
 # CRS
  对话推荐系统相关总结
 
+## 相关项目
+
+|项目|链接|
+|--|--|
+|CRSLab|[github](https://github.com/RUCAIBox/CRSLab)|
+
 ## 相关文章
 
 |文章|链接|
