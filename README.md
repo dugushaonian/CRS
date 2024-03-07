@@ -3,9 +3,9 @@
 
 ## 相关项目
 
-|项目|链接|
-|--|--|
-|CRSLab|[github](https://github.com/RUCAIBox/CRSLab)|
+|项目|链接|描述|
+|--|--|--|
+|CRSLab|[github](https://github.com/RUCAIBox/CRSLab)|用于构建对话推荐系统（CRS）的开源工具包|
 
 ## 相关文章
 
