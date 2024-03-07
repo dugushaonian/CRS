@@ -6,6 +6,7 @@
 |项目|链接|描述|
 |--|--|--|
 |CRSLab|[github](https://github.com/RUCAIBox/CRSLab)|用于构建对话推荐系统（CRS）的开源工具包|
+|CRSPapers|[github](https://github.com/RUCAIBox/CRSPapers)|对话推荐相关的一些论文整理，但是看两年多没更新了|
 
 ## 相关文章
 
