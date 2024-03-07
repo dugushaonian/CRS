@@ -1,6 +1,11 @@
 # CRS
  对话推荐系统相关总结
 
+## 论文
+|论文|链接|介绍|
+|--|--|--|
+|Advances and Challenges in Conversational Recommender Systems: A Survey|[arxiv](https://arxiv.org/abs/2101.09459v7)|21年的一篇综述文章，虽然有些早，作为综述文章，可用来了解对话推荐系统的发展，还是挺不错的|
+
 ## 相关项目
 
 |项目|链接|描述|
